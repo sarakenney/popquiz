@@ -1,5 +1,16 @@
 
-
+body {
+    font-family: 'Roboto', Arial, sans-serif;
+}
 ul li {
     list-style-type: none;
+}
+
+
+footer {
+    padding: 2em;
+}
+
+a img {
+    width: 3em;
 }
